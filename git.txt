@@ -1,0 +1,13 @@
+* tree
+    branches
+        main branch / trunck => master branch 
+        
+* repository
+    -repo
+        gitlab
+        github
+        bitbucket
+        self host
+
+        git in your development machine
+         
