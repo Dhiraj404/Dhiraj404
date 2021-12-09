@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhiraj Bariyait (Dhiraj404)
-- 👀 I’m interested in MERN
+- 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning web design and MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .bariyaitdhiraj05@gmail.com
